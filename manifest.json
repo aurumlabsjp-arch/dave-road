@@ -1,0 +1,26 @@
+{
+  "name": "DAVE ROAD",
+  "short_name": "DAVE ROAD",
+  "description": "Personal Diet Tracker with AI Coach",
+  "start_url": "./Jun_DaveRoad_v3_0.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a0c",
+  "theme_color": "#ff5722",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
